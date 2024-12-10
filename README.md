@@ -1,0 +1,1 @@
+A binary tree is a data structure in computer science that consists of a set of nodes, where each node has at most two children. These children are called the left child and the right child. Binary trees are commonly used to organize data hierarchically and are often employed in algorithms for searching, sorting, and in compression systems
